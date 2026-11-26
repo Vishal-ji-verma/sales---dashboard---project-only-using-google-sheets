@@ -1,0 +1,29 @@
+1.Sales aur profit time ke saath kaise badal rahe hain? (saal aur mahine ke hisaab se)
+  Data ne kya bataya: Sales 2017 mein sabse zyada, Profit bhi saath badha. 2015 mein Sales kam par Profit zyada.
+  Agla sawal: 2015 mein Profit Margin kyun behtar tha?
+  Data ne kya bataya: Margin 2016 mein sabse zyada, 2017 mein Sales zyada par Margin kam.
+  Mera guess: 2017 mein discount zyada diya gaya.
+  Mera guess: 2017 mein discount zyada tha.
+  Data ne kya bataya: Sahi. 2014 aur 2017 mein discount zyada, margin kam. 2015 aur 2016 mein discount kam, margin zyada.
+  Recommendation: Discount ko control mein rakho, kyunki sales badhane ke chakkar mein margin girta hai.
+
+2.Kaun si Category aur Sub-Category sabse zyada profit deti hai, aur kaun si loss mein hai?
+  Data ne kya bataya: Technology sabse zyada profit, Furniture (Bookcases, Tables) aur Office Supplies mei loss 
+  Recommendation: Tables aur Bookcases par discount kam karo, ya unki pricing check karo
+
+3. Kaun se Region ya State kamzor perform kar rahe hain?
+   Mera guess: (jo bhi tumne socha tha)
+   Data ne kya bataya: West sabse zyada profit. Central kamzor. Texas aur Illinois loss mein.
+   Agla sawal: Texas aur Illinois mein loss kyun? Kya wahan discount zyada hai?
+  Data ne kya bataya: Texas aur Illinois mein avg discount 0.3+, aur dono loss mein. California aur New York mein discount kam (0.1 se neeche), Profit achha.
+   Recommendation: Texas aur Illinois mein discount cap karo (30% se neeche), aur wahan ki pricing check karo.
+
+4. Kya zyada Discount dene se Profit kam hota hai?
+      Mujhe lagta hai ki jahan Discount zyada hota hai, wahan Profit kam hota hai ya loss hota hai.
+      Mera guess: zyada discount, kam profit
+      Data ne kya bataya: 0.3 se loss shuru, 0.2 par sabse zyada loss
+      Recommendation: 30% se zyada discount mat do
+
+5.Top 10 customers kaun hain?
+  Data ne kya bataya: Sales mein number 1 customer ka Profit negative hai. Sales aur Profit ke top customers alag hain.
+  Recommendation: Customers ko sirf Sales se nahi, Profit se bhi rank karo. Loss-making bade customers ko discount kam do.
